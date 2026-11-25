@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://svdbwebsites.com/sitemap.xml
